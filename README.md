@@ -19,4 +19,5 @@ Canta дозволяє видалити будь-яку програму
 | _ | AccuweatherWidget |
 | _ | AllShareCastWidget; AllSharePlay; AllshareService |
 | _ | AnalogClock |
-| GoogleApps; GoogleCheckin; GoogleLoginService; GoogleServicesFramework; GoogleSubscribedFeedsProvider; Google Play services | Gmail; GmailProvider; GooglePartnerSetup; Google Play Store; Gemini |
+| GoogleApps; GoogleCheckin; GoogleLoginService; GoogleServicesFramework; GoogleSubscribedFeedsProvider; Google Play services | Gmail; GmailProvider; GooglePartnerSetup; Google Play Store; Gemini; Chrome |
+| Android System WebView Dev; Android System WebView | _ |
