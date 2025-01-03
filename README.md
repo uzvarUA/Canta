@@ -22,3 +22,5 @@ Canta дозволяє видалити будь-яку програму
 | _ | AnalogClock |
 | GoogleApps; GoogleCheckin; GoogleLoginService; GoogleServicesFramework; GoogleSubscribedFeedsProvider; Google Play services | Gmail; GmailProvider; GooglePartnerSetup; Google Play Store; Gemini; Chrome |
 | Android System WebView Dev; Android System WebView | _ |
+***
+Дослідження проводилось за допомогою [VMOS](https://www.vmos.com/history/)
