@@ -16,3 +16,5 @@ Canta дозволяє видалити будь-яку програму
 |---|---|
 | AccountAndSyncSettings | AccuWeatherDaemonService |
 | _ | AccuweatherWidget |
+| _ | AllShareCastWidget; AllSharePlay; AllshareService |
+| _ | AnalogClock |
